@@ -1,9 +1,10 @@
 <?php
-   $valeur = $_POST;
-   if(!empty($valeur)){
-  
-};
-   
+$valeur = $_POST;
+if (!empty($valeur)) {
+    echo "bonjour";
+}
+;
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
