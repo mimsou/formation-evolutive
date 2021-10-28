@@ -49,3 +49,7 @@ html,body{
 .list-table{
     width: 100%;
 }
+
+.modifier-lien{
+    margin: 5px;
+}
