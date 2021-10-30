@@ -42,6 +42,21 @@ html,body{
 }
 
 
+.client-form select{
+    margin: 10px;
+    margin-left: 15px;
+    padding: 5px;
+    width: 50%;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.client-form select:hover{
+      background-color: #DDD;
+}
+
+
 .client-form input:focus{
     border: 1px solid #DDD;
 }
